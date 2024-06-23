@@ -1,0 +1,15 @@
+@use './../abstracts/' as *;
+
+body {
+  min-height: 100vh;
+  padding: 1rem;
+
+  font-family: $default-font-family;
+  font-size: $fs-3;
+
+  display: grid;
+  place-content: center;
+
+  background-color: $clr-bg-main;
+  color: $clr-p;
+}
