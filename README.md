@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-using-html-and-sass-jHJ8EdNKYj))
+- Live Site URL: [Site]([https://your-live-site-url.com](https://zeinghra.github.io/stats-preview-card-component-main/))
 
 ## My process
 
